@@ -1,0 +1,16 @@
+{
+  "code": "COMMAND_NOT_FOUND",
+  "message": "'analyze-native-binary' is not a command for 'rea'. Did you mean 'analyze-web-bundle'?",
+  "cta": {
+    "description": "Suggested commands:",
+    "commands": [
+      {
+        "command": "rea analyze-web-bundle ../../herramientas/pomodoro --json"
+      },
+      {
+        "command": "rea --help",
+        "description": "see all available commands"
+      }
+    ]
+  }
+}
